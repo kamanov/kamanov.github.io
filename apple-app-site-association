@@ -5,7 +5,7 @@
       {
         "appID": "8NA98GZ448.ru.yandex.mail.debug",
         "paths": [
-          "/mail/*"
+          "/mail/"
         ]
       }
     ]
